@@ -1,0 +1,2 @@
+xport OPENAI_API_KEY="your_api_key_here"   # Mac/Linux
+setx OPENAI_API_KEY "your_api_key_here"     # Windows
